@@ -23,9 +23,9 @@
     "typescript": "^4.0.5"
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "check": "npm-check -s -u",
-    "test:staged":"jest"
+    "test:staged":"jest --passWithNoTests"
   },
   "dependencies": {
     "yarn-check": "^0.0.3"
