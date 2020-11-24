@@ -4,7 +4,7 @@ Clean Node Api é uma API para criação de enquetes. No momento está sendo des
 
 Segue um link com a arquitetura do Projeto: https://drive.google.com/file/d/1dLOj6d9GXzC5ip0zKcnAquT4a6GJiu6x/view?usp=sharing
 
-<img src="./src/images/arch.png">
+<img src="http://lincolngadea.com.br/glinc/arch.png">
 
 ## Objetivo Principal do Projeto
 
